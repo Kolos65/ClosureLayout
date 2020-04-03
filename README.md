@@ -1,13 +1,13 @@
 </br>
 <p align="center">
-    <img src="title.png" width="700”  alt="ClosureLayout" />
+    <img src="https://raw.githubusercontent.com/Kolos65/ClosureLayout/master/title.png" width="700”  alt="ClosureLayout" />
 </p>
 
 # 
 
-[![Version](https://img.shields.io/cocoapods/v/ClosureLayout.svg?style=flat)](https://cocoapods.org/pods/ClosureLayout)
-[![License](https://img.shields.io/cocoapods/l/ClosureLayout.svg?style=flat)](https://cocoapods.org/pods/ClosureLayout)
-[![Platform](https://img.shields.io/cocoapods/p/ClosureLayout.svg?style=flat)](https://cocoapods.org/pods/ClosureLayout)
+[![Version](https://img.shields.io/cocoapods/v/ClosureLayout)](https://cocoapods.org/pods/ClosureLayout)
+[![License](https://img.shields.io/cocoapods/l/ClosureLayout)](https://cocoapods.org/pods/ClosureLayout)
+[![Platform](https://img.shields.io/cocoapods/p/ClosureLayout)](https://cocoapods.org/pods/ClosureLayout)
 
 A lightweight DSL for simple auto layout in Swift.
 
